@@ -1,0 +1,1 @@
+This is a test! Letâ€™s test our Python flesch calculator. We can use ellipses...with variant spacing . . . and it should still work. Hopefully.
